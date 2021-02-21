@@ -9,26 +9,27 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home"
-            app:showAsAction="always"/>
+            app:showAsAction="withText"
+            />
         <item
             android:id="@+id/nav_messages"
             android:icon="@android:drawable/stat_notify_chat"
             android:title="Messages"
-            app:showAsAction="always"/>
+            />
         <item
             android:id="@+id/nav_newmess"
             android:icon="@android:drawable/ic_menu_edit"
             android:title="New message"
-            app:showAsAction="always"/>
+            />
         <item
             android:id="@+id/nav_users"
             android:icon="@drawable/ic_user"
             android:title="Current Users"
-            app:showAsAction="always" />
+             />
         <item
             android:id="@+id/nav_announcements"
             android:icon="@drawable/ic_megaphone"
             android:title="Public Announcements"
-            app:showAsAction="always"/>
+            />
     </group>
 </menu>
