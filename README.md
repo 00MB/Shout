@@ -1,6 +1,7 @@
 Video: [Here!](https://youtu.be/iUIqGWZhUts)
 
-##Connection when you need it most
+## Connection when you need it most
+
 ## Inspiration
 
 218,350,000. That is the number of people that are affected every year by natural disasters, shocking right! What happens if you are trapped and trying to contact someone when both the cell towers and WiFi have been knocked out. How can we push connectivity in a small network like communities to ask for help, supplies, receive updates, etc? This is just one use case for our technology, but there are many others. **How can we provide connection when people need it most?**
