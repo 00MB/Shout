@@ -1,6 +1,8 @@
 Video: [Here!](https://youtu.be/iUIqGWZhUts)
 
-## Connection when you need it most
+# Connection when you need it most
+
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/408/104/datas/original.png)
 
 ## Inspiration
 
